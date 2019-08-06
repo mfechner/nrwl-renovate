@@ -1,0 +1,4 @@
+{
+  "baseBranches": ["master"],
+  "extends": ["config:base", ":preserveSemverRanges"]
+}

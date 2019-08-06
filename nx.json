@@ -1,11 +1,21 @@
 {
-  "npmScope": "nrwl-renovate",
+  "npmScope": "rest-to-csv",
   "implicitDependencies": {
-    "workspace.json": "*",
+    "angular.json": "*",
     "package.json": "*",
     "tsconfig.json": "*",
     "tslint.json": "*",
     "nx.json": "*"
   },
-  "projects": {}
+  "projects": {
+    "frontend": {
+      "tags": []
+    },
+    "frontend-e2e": {
+      "tags": []
+    },
+    "backend": {
+      "tags": []
+    }
+  }
 }
