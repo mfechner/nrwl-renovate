@@ -89,7 +89,7 @@
     "codelyzer": "^5.0.1",
     "concurrently": "^4.1.1",
     "cypress": "3.4.1",
-    "jest": "24.1.0",
+    "jest": "24.9.0",
     "jest-preset-angular": "^7.1.1",
     "prettier": "1.16.4",
     "ts-jest": "24.0.0",
