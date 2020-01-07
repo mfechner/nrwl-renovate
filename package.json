@@ -65,12 +65,12 @@
     "node-windows": "^0.1.14",
     "reflect-metadata": "^0.1.12",
     "rxjs": "6.5.4",
-    "zone.js": "~0.9.1"
+    "zone.js": "~0.10.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.803.0",
     "@angular/cli": "8.3.21",
-    "@angular/compiler-cli": "~8.1.2",
+    "@angular/compiler-cli": "~8.2.0",
     "@angular/language-service": "^8.1.2",
     "@nestjs/schematics": "^6.4.1",
     "@nestjs/testing": "^6.5.3",
