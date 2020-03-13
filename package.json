@@ -72,7 +72,7 @@
     "@angular/cli": "8.3.23",
     "@angular/compiler-cli": "~8.2.0",
     "@angular/language-service": "^8.1.2",
-    "@nestjs/schematics": "^6.4.1",
+    "@nestjs/schematics": "^7.0.0",
     "@nestjs/testing": "^6.5.3",
     "@ngx-i18nsupport/ngx-i18nsupport": "^1.1.6",
     "@nrwl/cypress": "8.11.2",
