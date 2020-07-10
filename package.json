@@ -88,7 +88,7 @@
     "@types/node": "^12.6.8",
     "codelyzer": "^5.0.1",
     "concurrently": "^5.0.0",
-    "cypress": "3.8.2",
+    "cypress": "4.10.0",
     "jest": "25.1.0",
     "jest-preset-angular": "^8.0.0",
     "prettier": "1.19.1",
