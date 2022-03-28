@@ -59,7 +59,7 @@
     "dotenv": "^8.0.0",
     "hammerjs": "^2.0.8",
     "i18next": "^19.0.0",
-    "i18next-express-middleware": "^1.8.0",
+    "i18next-express-middleware": "^2.0.0",
     "json2csv": "^5.0.0",
     "moment": "^2.24.0",
     "node-windows": "^1.0.0-beta",
