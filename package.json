@@ -46,7 +46,7 @@
     "@angular/platform-browser-dynamic": "^13.0.0",
     "@angular/router": "^13.0.0",
     "@hapi/joi": "^17.0.0",
-    "@nestjs/common": "^7.0.0",
+    "@nestjs/common": "^8.0.0",
     "@nestjs/core": "^6.5.3",
     "@nestjs/platform-express": "^6.5.3",
     "@ngx-i18nsupport/tooling": "^8.0.3",
