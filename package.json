@@ -57,7 +57,7 @@
     "core-js": "3.21.1",
     "cron": "1.8.2",
     "cross-env": "7.0.3",
-    "dotenv": "16.0.0",
+    "dotenv": "16.0.3",
     "hammerjs": "2.0.8",
     "i18next": "21.6.14",
     "i18next-express-middleware": "2.0.0",
