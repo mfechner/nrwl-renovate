@@ -83,7 +83,7 @@
     "@nrwl/workspace": "13.9.5",
     "@types/cron": "1.7.3",
     "@types/dotenv": "6.1.1",
-    "@types/express": "4.17.13",
+    "@types/express": "4.17.15",
     "@types/jest": "27.4.1",
     "@types/node": "17.0.23",
     "codelyzer": "6.0.2",
