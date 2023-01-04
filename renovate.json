@@ -1,4 +1,11 @@
 {
   "baseBranches": ["master"],
-  "extends": ["config:base"]
+  "extends": [
+      "config:base",
+      ":automergePatch",
+      ":unpublishSafe",
+      ":prNotPending",
+      "monorepo:nrwl"
+  ],
+  "rebaseWhen": "behind-base-branch"
 }
