@@ -234,6 +234,5 @@
     },
     "defaultCollection": "@nrwl/angular"
   },
-  "schematics": {},
-  "defaultProject": "frontend"
+  "schematics": {}
 }
