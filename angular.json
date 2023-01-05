@@ -232,7 +232,9 @@
       "typescriptMismatch": false,
       "versionMismatch": false
     },
-    "defaultCollection": "@nrwl/angular"
+    "schematicCollections": [
+      "@nrwl/angular"
+    ]
   },
   "schematics": {}
 }
