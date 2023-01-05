@@ -17,5 +17,18 @@
     "backend": {
       "tags": []
     }
-  }
+  },
+  "targetDefaults": {
+    "test": {
+      "inputs": ["default", "^default"]
+    }
+  },
+  "cli": {
+    "warnings": {
+      "typescriptMismatch": false,
+      "versionMismatch": false
+    },
+    "defaultCollection": "@nrwl/angular"
+  },
+  "defaultProject": "frontend"
 }
