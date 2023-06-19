@@ -48,7 +48,7 @@
     "@angular/router": "15.0.4",
     "@hapi/joi": "17.1.1",
     "@nestjs/common": "8.4.7",
-    "@nestjs/core": "8.4.7",
+    "@nestjs/core": "9.0.5",
     "@nestjs/platform-express": "8.4.7",
     "@ngx-i18nsupport/tooling": "8.0.3",
     "@nrwl/angular": "15.4.4",
