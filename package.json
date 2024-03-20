@@ -81,7 +81,7 @@
     "@nrwl/nest": "15.4.4",
     "@nrwl/node": "15.4.4",
     "@nrwl/workspace": "15.4.4",
-    "@types/cron": "1.7.3",
+    "@types/cron": "2.4.0",
     "@types/dotenv": "6.1.1",
     "@types/express": "4.17.15",
     "@types/jest": "28.1.8",
