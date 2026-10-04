@@ -62,7 +62,7 @@
     "i18next": "21.10.0",
     "i18next-express-middleware": "2.0.0",
     "json2csv": "5.0.7",
-    "moment": "2.29.4",
+    "moment": "2.31.0",
     "node-windows": "1.0.0-beta.8",
     "reflect-metadata": "0.1.13",
     "rxjs": "7.8.0",
